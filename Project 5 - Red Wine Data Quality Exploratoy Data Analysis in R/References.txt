@@ -1,0 +1,16 @@
+
+References:
+
+http://www.cookbook-r.com/Manipulating_data/Converting_data_between_wide_and_long_format/
+https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html
+https://stackoverflow.com/questions/2547402/is-there-a-built-in-function-for-finding-the-mode
+https://stackoverflow.com/questions/26574054/how-to-change-font-size-of-the-correlation-coefficient-in-corrplot
+http://stefanengineering.com/dev/2018/05/14/corrplot-title-cut-off.html
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/
+https://github.com/kassambara/ggpubr/issues/38
+https://stackoverflow.com/questions/14726078/changing-title-in-multiplot-ggplot2-using-grid-arrange
+https://stackoverflow.com/questions/33920371/how-to-add-a-border-around-a-chart-created-via-arrange-grid-in-gridextra-encompa
+https://data.library.virginia.edu/setting-up-color-palettes-in-r/
+http://www.sthda.com/english/wiki/ggplot2-histogram-plot-quick-start-guide-r-software-and-data-visualization
+https://data.library.virginia.edu/setting-up-color-palettes-in-r/
+https://daringfireball.net/projects/markdown/syntax

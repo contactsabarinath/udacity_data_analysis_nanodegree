@@ -1,0 +1,7 @@
+
+https://wiki.openstreetmap.org/wiki/Overpass_API
+https://www.worldatlas.com/na/us/area-codes.html
+https://regex101.com/r/cJ2zT8/1
+http://www.diveintopython3.net/regular-expressions.html
+https://stackoverflow.com/questions/4987327/how-do-i-check-if-a-string-is-unicode-or-ascii
+udacity case study starter codes and course materials

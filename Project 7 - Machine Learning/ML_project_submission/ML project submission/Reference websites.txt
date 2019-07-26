@@ -1,0 +1,11 @@
+References:
+https://stats.stackexchange.com/
+https://stackoverflow.com/
+https://www.dataschool.io/comparing-supervised-learning-algorithms/
+http://scikit-learn.org/s
+http://lijiancheng0614.github.io/scikit-learn/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e
+https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
+https://www.kdnuggets.com/2016/12/best-metric-measure-accuracy-classification-models.html
+https://en.wikipedia.org/wiki/Precision_and_recall
+https://stats.stackexchange.com/questions/62621/recall-and-precision-in-classification

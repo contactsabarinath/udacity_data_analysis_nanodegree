@@ -1,0 +1,7 @@
+
+I chose the following coordinates for my study: (also provided the screenshot of the boundary along with lat/long under the filename sabari_osm_extract.jpeg
+
+https://www.openstreetmap.org/export#map=12/47.6817/-122.0794
+
+The area selected is the suburban area of Redmond,Bellevue, Kirkland and Woodinville. The idea is that there will be so many street addresses and variations in the data 
+which would be a challenging and a good learning experience for the project.
